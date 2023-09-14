@@ -11,6 +11,8 @@ User journey
 
 Logical Architecture
 
+![Arch drawio](https://github.com/nkpaladugu/ArchNinjas/assets/1698474/3fd0004c-d154-4831-bb19-68015f3baad0)
+
 
 Deployment Architecture
 
