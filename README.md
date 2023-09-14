@@ -7,6 +7,7 @@ About the team :
 Diagrams:
 
 User journey
+![All-In-One-User Journey View drawio](https://github.com/nkpaladugu/ArchNinjas/assets/1698474/8e1cd38e-cd3d-4711-ae1b-f5ccededb8c3)
 
 Logical Architecture
 
