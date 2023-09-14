@@ -30,12 +30,11 @@ Status:
 Consequencies
 
 ADR -02: Gateway pattern
-Deploy the services behind an API gateway for rate limiting & Security
+Deploy the services behind an API gateway for rate limiting & Security.
 
 
-ADR -03: DB Schema per Service
+ADR -03: CDC to Datawarehouse
 
-ADR -04: CDC to Datawarehouse
+ADR -04: Edge Cache Service for better response times
 
-ADR -05: Edge Service for Caching
-
+ADR -04: React JS for Web & React Native for Mobile
